@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-2d7sbc.salamcuan.online/sitemap.xml
